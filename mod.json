@@ -1,0 +1,9 @@
+{
+  "name": "Divine Affinity",
+  "author": "Alibarda#8140",
+  "version": "0.1.1",
+  "startPoint": "Main.cs",
+  "description": "Trait Expansion Mod",
+  "targetGameBuild": 547,
+  "iconPath": "icon.png"
+}
